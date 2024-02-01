@@ -4,7 +4,7 @@ public class UserData {
 	String user;
 	String phone;
 	String address;
-	String border;
+	
 	public UserData() {
 
 	}
